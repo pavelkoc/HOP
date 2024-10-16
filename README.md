@@ -1,6 +1,8 @@
 # HOP - Genetické algoritmy
 
 Zadanie 1
+
+
 Cieľom prvého zadania je, aby ste sa oboznámili s vybranými heuristickými algoritmami pre optimalizáciu a problémami, ktoré sa dajú riešiť pomocou nich. Okrem teoretického rešeršu implementujete vybraný algoritmus a vyskúšate ho na riešenie ukážkového problému. Na zadaní pracujete v trojiciach.
 
 Vypracované zadanie sa skladá z nasledujúcich častí:
