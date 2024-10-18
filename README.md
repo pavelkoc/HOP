@@ -17,4 +17,5 @@ Vypracované zadanie sa skladá z nasledujúcich častí:
     * popis experimentov a výsledkov
 5. Krátka prezentácia (10 minút) so zhrnutím článku
 
+Tu je link na zdieľaný dokument word.
 https://1drv.ms/w/s!Apiu7zu79eO68UwRN9qJ4RDno-YC?e=Jy86aq
