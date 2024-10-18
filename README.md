@@ -16,3 +16,5 @@ Vypracované zadanie sa skladá z nasledujúcich častí:
     * popis ukážkového problému a modelu, na ktorom budete testovať algoritmus
     * popis experimentov a výsledkov
 5. Krátka prezentácia (10 minút) so zhrnutím článku
+
+https://1drv.ms/w/s!Apiu7zu79eO68UwRN9qJ4RDno-YC?e=Jy86aq
